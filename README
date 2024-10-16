@@ -5,8 +5,12 @@
 Howdy All~ I will welcome you guys to my ultimate Windows Update Tool!
 Is the update for drivers? Minor updates? NAH! This update tool lets you update your PC to the newest, major release update!
 Wait, what? You could just update from settings?
+
 Yeah, that may be true. But this ultimate update tool is for PCs which the update may not show, or for PCs that doesn't support the newest major update.
-For receving the update from the server, you have to do that yourself (For the script's future compatability. For example, if I have a cmd gui with pre selected options, in the future when windows 18 is out for example, you wont be able to use the tool since the script would only have the selection to install Windows 11)
+For receving the update from the server, you have to do that yourself 
+(For the script's future compatability. For example, if I have a cmd gui with pre selected options, in the future when windows 18 is out for example, 
+you wont be able to use the tool since the script would only have the selection to install Windows 11)
+
 However, YAY! The update and the bypass process is automated! Just select some personal options, and start updating!
 
 There will be two versions., or maybe options
